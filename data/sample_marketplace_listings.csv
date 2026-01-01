@@ -1,0 +1,12 @@
+diff --git a/data/sample_marketplace_listings.csv b/data/sample_marketplace_listings.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..54724cab2ba2cf0799d9122a4d8bf3049e7275fb
+--- /dev/null
++++ b/data/sample_marketplace_listings.csv
+@@ -0,0 +1,6 @@
++listing_id,vendor,category,item,price_usd,wallet_address
++L-1001,ShadowLotus,Phishing Kits,Custom bank phishing kit,1200,bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a
++L-1002,IronKrait,Access Brokers,VPN credentials bundle,450,1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1
++L-1003,SilverHaze,Data Leaks,Healthcare records sample,900,0x9bA0f7C2e5dD8fB20a2D8F5F9b3c6e7A1b2C3d4E
++L-1004,NoirCobalt,Ransomware,Initial access package,2500,3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9
++L-1005,CrimsonEcho,Counterfeit Docs,EU passport kit,1800,bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7
