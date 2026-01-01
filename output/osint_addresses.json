@@ -1,0 +1,52 @@
+diff --git a/output/osint_addresses.json b/output/osint_addresses.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..23e7daf6d55c36aeabc7b5210d3c8b9aa0d9a4fc
+--- /dev/null
++++ b/output/osint_addresses.json
+@@ -0,0 +1,45 @@
++{
++  "context": {
++    "0x9bA0f7C2e5dD8fB20a2D8F5F9b3c6e7A1b2C3d4E": [
++      "Forum post P-903 (cinderfox)",
++      "Listing L-1003 (SilverHaze)"
++    ],
++    "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1": [
++      "Forum post P-901 (voidsignal)",
++      "Listing L-1002 (IronKrait)"
++    ],
++    "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9": [
++      "Forum post P-903 (cinderfox)",
++      "Listing L-1004 (NoirCobalt)"
++    ],
++    "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a": [
++      "Forum post P-902 (neondrift)",
++      "Listing L-1001 (ShadowLotus)"
++    ],
++    "bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7": [
++      "Listing L-1005 (CrimsonEcho)"
++    ]
++  },
++  "wallets": {
++    "all_wallets": [
++      "0x9bA0f7C2e5dD8fB20a2D8F5F9b3c6e7A1b2C3d4E",
++      "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1",
++      "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9",
++      "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a",
++      "bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7"
++    ],
++    "listing_wallets": [
++      "0x9bA0f7C2e5dD8fB20a2D8F5F9b3c6e7A1b2C3d4E",
++      "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1",
++      "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9",
++      "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a",
++      "bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7"
++    ],
++    "post_wallets": [
++      "0x9bA0f7C2e5dD8fB20a2D8F5F9b3c6e7A1b2C3d4E",
++      "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1",
++      "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9",
++      "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a"
++    ]
++  }
++}
+\ No newline at end of file
