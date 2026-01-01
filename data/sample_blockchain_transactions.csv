@@ -1,0 +1,12 @@
+diff --git a/data/sample_blockchain_transactions.csv b/data/sample_blockchain_transactions.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..abf1b8b0f8f6e191e2f2852b94bf1bd6f375e7de
+--- /dev/null
++++ b/data/sample_blockchain_transactions.csv
+@@ -0,0 +1,6 @@
++tx_id,from_address,to_address,amount_btc,timestamp,notes
++TX-0001,bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a,3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5,0.18,2024-05-13T15:10:00Z,Listing payment
++TX-0002,1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1,3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9,0.42,2024-05-14T10:01:22Z,Vendor payout
++TX-0003,3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9,bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7,0.11,2024-05-14T21:55:04Z,Affiliate share
++TX-0004,bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7,1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY,0.07,2024-05-15T08:30:00Z,Funds consolidation
++TX-0005,1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1,bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a,0.05,2024-05-16T12:05:45Z,Refund flow
