@@ -1,0 +1,83 @@
+diff --git a/output/transaction_summary.json b/output/transaction_summary.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..5ac85c44d748f07f706dddea1d11e19b2a1d9e64
+--- /dev/null
++++ b/output/transaction_summary.json
+@@ -0,0 +1,76 @@
++{
++  "matched_transactions": [
++    {
++      "amount_btc": "0.18",
++      "from_address": "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a",
++      "notes": "Listing payment",
++      "timestamp": "2024-05-13T15:10:00Z",
++      "to_address": "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5",
++      "tx_id": "TX-0001"
++    },
++    {
++      "amount_btc": "0.42",
++      "from_address": "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1",
++      "notes": "Vendor payout",
++      "timestamp": "2024-05-14T10:01:22Z",
++      "to_address": "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9",
++      "tx_id": "TX-0002"
++    },
++    {
++      "amount_btc": "0.11",
++      "from_address": "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9",
++      "notes": "Affiliate share",
++      "timestamp": "2024-05-14T21:55:04Z",
++      "to_address": "bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7",
++      "tx_id": "TX-0003"
++    },
++    {
++      "amount_btc": "0.07",
++      "from_address": "bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7",
++      "notes": "Funds consolidation",
++      "timestamp": "2024-05-15T08:30:00Z",
++      "to_address": "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY",
++      "tx_id": "TX-0004"
++    },
++    {
++      "amount_btc": "0.05",
++      "from_address": "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1",
++      "notes": "Refund flow",
++      "timestamp": "2024-05-16T12:05:45Z",
++      "to_address": "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a",
++      "tx_id": "TX-0005"
++    }
++  ],
++  "totals_by_address": {
++    "1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1": {
++      "incoming_btc": 0.0,
++      "outgoing_btc": 0.47,
++      "tx_count": 2
++    },
++    "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY": {
++      "incoming_btc": 0.07,
++      "outgoing_btc": 0.0,
++      "tx_count": 1
++    },
++    "3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9": {
++      "incoming_btc": 0.42,
++      "outgoing_btc": 0.11,
++      "tx_count": 2
++    },
++    "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5": {
++      "incoming_btc": 0.18,
++      "outgoing_btc": 0.0,
++      "tx_count": 1
++    },
++    "bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a": {
++      "incoming_btc": 0.05,
++      "outgoing_btc": 0.18,
++      "tx_count": 2
++    },
++    "bc1q6l2l9ts2q9l9h4p0m7w8m8c9r8g2s2f4x5v6w7": {
++      "incoming_btc": 0.11,
++      "outgoing_btc": 0.07,
++      "tx_count": 2
++    }
++  }
++}
+\ No newline at end of file
