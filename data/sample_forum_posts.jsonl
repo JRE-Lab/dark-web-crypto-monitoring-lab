@@ -1,0 +1,10 @@
+diff --git a/data/sample_forum_posts.jsonl b/data/sample_forum_posts.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..0355683057455ebfc7c4b943fd4a271f6d086425
+--- /dev/null
++++ b/data/sample_forum_posts.jsonl
+@@ -0,0 +1,4 @@
++{"post_id":"P-901","author":"voidsignal","content":"Selling fresh access. Pay to 1JpY6bZ2qJ3GmP9Yp1FQzT1k9t5sYzT2b1. DM for sample.","timestamp":"2024-05-13T14:03:21Z"}
++{"post_id":"P-902","author":"neondrift","content":"Drop service updated. BTC only -> bc1q2g2y5kpy0nsc5k8v4n7z9t7p5v0p0u2d3k9m4a","timestamp":"2024-05-14T09:22:11Z"}
++{"post_id":"P-903","author":"cinderfox","content":"Escrow info: 3Eo1f3J3wLkz4ZQy2YJ5dZ4M1xV9h7J8J9 or 0x9bA0f7C2e5dD8fB20a2D8F5F9b3c6e7A1b2C3d4E","timestamp":"2024-05-14T18:40:03Z"}
++{"post_id":"P-904","author":"ghostwave","content":"Looking for vendors to collaborate. No wallet yet.","timestamp":"2024-05-15T07:15:44Z"}
